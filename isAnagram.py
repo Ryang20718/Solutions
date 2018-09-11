@@ -19,3 +19,4 @@
                 return False
         return True
     ## creates two hashmaps and then checks if both have same amt of keys and value count
+    ## create a dict by using {}
