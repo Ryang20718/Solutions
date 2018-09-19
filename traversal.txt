@@ -1,0 +1,17 @@
+Post:
+Until all nodes are traversed −
+Step 1 − Recursively traverse left subtree.
+Step 2 − Recursively traverse right subtree.
+Step 3 − Visit root node.
+
+Pre:
+Until all nodes are traversed −
+Step 1 − Visit root node.
+Step 2 − Recursively traverse left subtree.
+Step 3 − Recursively traverse right subtree.
+
+In:
+Until all nodes are traversed −
+Step 1 − Recursively traverse left subtree.
+Step 2 − Visit root node.
+Step 3 − Recursively traverse right subtree.
