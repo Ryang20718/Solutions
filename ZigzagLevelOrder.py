@@ -35,3 +35,40 @@ class Solution:
             dire+=1
         return arr
     # or you can use a temporary array for each node
+
+    
+    
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def zigzagLevelOrder(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        if not root:
+            return []
+        ans = []
+        node = [root]
+        flag = True
+        while node!=[]:
+            tmp = []
+            values = []
+            for ele in node:
+                if ele:
+                    values.append(ele.val)
+                    tmp+=[ele.left,ele.right]
+            if flag:
+                ans.append(values)
+                flag = False
+            else:
+                ans.append(values[::-1])
+                flag = True
+            node = tmp
+        return ans[:-1]
