@@ -31,7 +31,7 @@ class Solution:
             if(dire%2 == 1):
                 arr.append(subArr)
             else:
-                arr.append(subArr[::-1])
+                arr.append(subArr[::-1]) # reverses appends the array
             dire+=1
         return arr
     # or you can use a temporary array for each node
