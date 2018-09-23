@@ -14,8 +14,8 @@ rackspace(maybe)
 shiphawk
 shopify
 xero
-zillow
-autodesk
+#zillow
+#autodesk
 #johonson-johnson
 lyft
-amex
+#amex
