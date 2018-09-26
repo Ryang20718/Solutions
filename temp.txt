@@ -19,3 +19,11 @@ xero
 #johonson-johnson
 lyft
 #amex
+
+Linkedin
+Google
+Twitter
+Facebook
+Microsoft
+Pinterest
+Amazon
