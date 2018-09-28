@@ -40,3 +40,4 @@ class Solution:
             cur *= 5
         return numZero
 #clever solution
+#
