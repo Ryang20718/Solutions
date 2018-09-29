@@ -33,7 +33,7 @@ Amazon
 #rubrik => 
 #jcpenny => 
 #square =>
-align => http://jobs.jobvite.com/align-tech/job/osdk8fwR
+#align => 
 progressive
 
 Travelers => https://careers.travelers.com/job/8644698/information-technology-internship-st-paul-mn/      or     https://careers.travelers.com/job/8647176/business-intelligence-internship-st-paul-mn/
@@ -44,7 +44,7 @@ Travelers => https://careers.travelers.com/job/8644698/information-technology-in
 #redhat => 
 CDW
 illumina
-expedia => https://lifeatexpedia.com/jobs/job/?jobid=R-34801
+#expedia => 
 
 GAP => https://jobs.gapinc.com/job/san-francisco/software-engineer-intern/1649/9249004
         https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-big-data/1649/9237636
@@ -54,20 +54,19 @@ GAP => https://jobs.gapinc.com/job/san-francisco/software-engineer-intern/1649/9
         https://jobs.gapinc.com/job/groveport/software-engineer-intern-web-platform/1649/9248981
         https://jobs.gapinc.com/job/san-francisco/associate-data-scientist-internship-customer-data-and-analytics/1649/9160752
         
-Macy => http://www.macyscollege.com/JobSearch/JobListing/MAC11992
+#Macy =>
 Mariott
 
-starbucks => https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=180007733&tz=GMT-07%3A00, https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=180007732&tz=GMT-07%3A00
-
-nike => https://jobs.nike.com/job/beaverton/technology-undergraduate-internship/824/9277020
+#starbucks => 
+#nike => 
 raytheon => https://jobs.raytheon.com/job/fullerton/techstudent-sophomore/4679/9438126
 Caterpillar => https://caterpillar.taleo.net/careersection/cat+external+cs/jobdetail.ftl
 UPS => https://www.jobs-ups.com/job/alpharetta/2019-ups-technology-summer-intern-ga/1187/9351549,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,https://www.jobs-ups.com/job/atlanta/plant-engineering-intern/1187/9454766
 Metlife => https://jobs.metlife.com/MLG/job/Cary-2019-MTU-Summer-Internship-Program-NC-27513/495817000/
-CVS => https://jobs.cvshealth.com/ShowJob/Id/366953/Undergrad-Intern-IT-Quality-Assurance/
-Ford => https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=417986#jobDetails=417986_5311
+#CVS => 
+#Ford => 
 
-Morgan Stanley => https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/spring-summer-fall-co-op-north-america/
+#Morgan Stanley => 
 Chevron UCLA october 17 11-4:00 
 ATT => https://www.att.jobs/job/san-ramon/technology-development-program-internship/117/9272349
 Datadog => https://www.datadoghq.com/careers/detail/?gh_jid=672473
