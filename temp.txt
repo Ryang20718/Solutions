@@ -30,17 +30,17 @@ Amazon
 
 #Fedex  
 #Pepsico => need masters
-#rubrik => 
+#*rubrik => 
 #jcpenny => 
-#square =>
-#align => 
+#*square =>
+#*align => 
 progressive
 
 Travelers => https://careers.travelers.com/job/8644698/information-technology-internship-st-paul-mn/      or     https://careers.travelers.com/job/8647176/business-intelligence-internship-st-paul-mn/
 
 #squarespace 
-#slack => 
-#stripe =>
+#*slack => 
+#*stripe =>
 #redhat => 
 CDW
 illumina
@@ -53,16 +53,16 @@ illumina
 #Macy =>
 Mariott
 
-#starbucks => 
+#*starbucks => 
 #nike => 
-raytheon => https://jobs.raytheon.com/job/fullerton/techstudent-sophomore/4679/9438126
+#raytheon =>
 #Caterpillar => 
-UPS => ,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,https://www.jobs-ups.com/job/atlanta/plant-engineering-intern/1187/9454766
+#UPS => ,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,
 #Metlife => 
 #CVS => 
 #Ford => 
 
 #Morgan Stanley => 
 Chevron UCLA october 17 11-4:00 
-ATT => https://www.att.jobs/job/san-ramon/technology-development-program-internship/117/9272349
-Datadog => https://www.datadoghq.com/careers/detail/?gh_jid=672473
+#ATT => 
+#*Datadog => 
