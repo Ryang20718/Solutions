@@ -27,3 +27,47 @@ Facebook
 Microsoft
 Pinterest
 Amazon
+
+#Fedex  
+Pepsico => https://www.pepsicojobs.com/main/jobs/153187BR?lang=en-us&previousLocale=en-US
+rubrik => https://www.rubrik.com/company/careers/engineering/jobs/software-engineer-internship-783507/?gh_jid=783507&gh_src=lq16hy1
+jcpenny => http://jobs.jobvite.com/jcp/job/ooVn7fwx
+square =>https://squareup.com/careers/jobs?type=Intern
+align => http://jobs.jobvite.com/align-tech/job/osdk8fwR
+progressive
+
+Travelers => https://careers.travelers.com/job/8644698/information-technology-internship-st-paul-mn/      or     https://careers.travelers.com/job/8647176/business-intelligence-internship-st-paul-mn/
+
+squarespace => https://www.squarespace.com/careers/interns/
+slack => https://slack.com/careers/951251/summer-software-engineering-intern-2019
+stripe =>https://stripe.com/jobs/positions/engineering-intern
+redhat => https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505
+CDW
+illumina
+expedia => https://lifeatexpedia.com/jobs/job/?jobid=R-34801
+
+GAP => https://jobs.gapinc.com/job/san-francisco/software-engineer-intern/1649/9249004
+        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-big-data/1649/9237636
+        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-product-catalogue/1649/9234209
+        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-global-supply-chain/1649/9237630
+        https://jobs.gapinc.com/job/groveport/software-engineer-intern-warehouse-execution/1649/9249000
+        https://jobs.gapinc.com/job/groveport/software-engineer-intern-web-platform/1649/9248981
+        https://jobs.gapinc.com/job/san-francisco/associate-data-scientist-internship-customer-data-and-analytics/1649/9160752
+        
+Macy => http://www.macyscollege.com/JobSearch/JobListing/MAC11992
+Mariott
+
+starbucks => https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=180007733&tz=GMT-07%3A00, https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=180007732&tz=GMT-07%3A00
+
+nike => https://jobs.nike.com/job/beaverton/technology-undergraduate-internship/824/9277020
+raytheon => https://jobs.raytheon.com/job/fullerton/techstudent-sophomore/4679/9438126
+Caterpillar => https://caterpillar.taleo.net/careersection/cat+external+cs/jobdetail.ftl
+UPS => https://www.jobs-ups.com/job/alpharetta/2019-ups-technology-summer-intern-ga/1187/9351549,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,https://www.jobs-ups.com/job/atlanta/plant-engineering-intern/1187/9454766
+Metlife => https://jobs.metlife.com/MLG/job/Cary-2019-MTU-Summer-Internship-Program-NC-27513/495817000/
+CVS => https://jobs.cvshealth.com/ShowJob/Id/366953/Undergrad-Intern-IT-Quality-Assurance/
+Ford => https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=417986#jobDetails=417986_5311
+
+Morgan Stanley => https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/spring-summer-fall-co-op-north-america/
+Chevron UCLA october 17 11-4:00 
+ATT => https://www.att.jobs/job/san-ramon/technology-development-program-internship/117/9272349
+Datadog => https://www.datadoghq.com/careers/detail/?gh_jid=672473
