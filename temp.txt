@@ -38,10 +38,10 @@ progressive
 
 Travelers => https://careers.travelers.com/job/8644698/information-technology-internship-st-paul-mn/      or     https://careers.travelers.com/job/8647176/business-intelligence-internship-st-paul-mn/
 
-squarespace => https://www.squarespace.com/careers/interns/
-slack => https://slack.com/careers/951251/summer-software-engineering-intern-2019
-stripe =>https://stripe.com/jobs/positions/engineering-intern
-redhat => https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505
+#squarespace 
+#slack => 
+#stripe =>
+#redhat => 
 CDW
 illumina
 expedia => https://lifeatexpedia.com/jobs/job/?jobid=R-34801
