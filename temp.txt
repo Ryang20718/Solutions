@@ -29,10 +29,10 @@ Pinterest
 Amazon
 
 #Fedex  
-Pepsico => https://www.pepsicojobs.com/main/jobs/153187BR?lang=en-us&previousLocale=en-US
-rubrik => https://www.rubrik.com/company/careers/engineering/jobs/software-engineer-internship-783507/?gh_jid=783507&gh_src=lq16hy1
-jcpenny => http://jobs.jobvite.com/jcp/job/ooVn7fwx
-square =>https://squareup.com/careers/jobs?type=Intern
+#Pepsico => need masters
+#rubrik => 
+#jcpenny => 
+#square =>
 align => http://jobs.jobvite.com/align-tech/job/osdk8fwR
 progressive
 
