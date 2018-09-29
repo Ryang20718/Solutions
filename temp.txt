@@ -46,13 +46,9 @@ CDW
 illumina
 #expedia => 
 
-GAP => https://jobs.gapinc.com/job/san-francisco/software-engineer-intern/1649/9249004
-        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-big-data/1649/9237636
-        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-product-catalogue/1649/9234209
-        https://jobs.gapinc.com/job/san-francisco/software-engineer-intern-global-supply-chain/1649/9237630
-        https://jobs.gapinc.com/job/groveport/software-engineer-intern-warehouse-execution/1649/9249000
-        https://jobs.gapinc.com/job/groveport/software-engineer-intern-web-platform/1649/9248981
-        https://jobs.gapinc.com/job/san-francisco/associate-data-scientist-internship-customer-data-and-analytics/1649/9160752
+#GAP =>        
+        
+        
         
 #Macy =>
 Mariott
@@ -60,9 +56,9 @@ Mariott
 #starbucks => 
 #nike => 
 raytheon => https://jobs.raytheon.com/job/fullerton/techstudent-sophomore/4679/9438126
-Caterpillar => https://caterpillar.taleo.net/careersection/cat+external+cs/jobdetail.ftl
-UPS => https://www.jobs-ups.com/job/alpharetta/2019-ups-technology-summer-intern-ga/1187/9351549,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,https://www.jobs-ups.com/job/atlanta/plant-engineering-intern/1187/9454766
-Metlife => https://jobs.metlife.com/MLG/job/Cary-2019-MTU-Summer-Internship-Program-NC-27513/495817000/
+#Caterpillar => 
+UPS => ,https://www.jobs-ups.com/job/miami/business-development-sales-analyst-intern/1187/9405191,https://www.jobs-ups.com/job/atlanta/plant-engineering-intern/1187/9454766
+#Metlife => 
 #CVS => 
 #Ford => 
 
