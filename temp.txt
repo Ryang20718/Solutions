@@ -63,13 +63,13 @@ Chevron UCLA october 17 11-4:00
 *Boosted
 
 viasat => https://viasat.avature.net/currentURopenings
-hubspot => https://www.hubspot.com/jobs/apply?gh_jid=807207
+#hubspot => 
 Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-summer-2019-multiple-locations/185/9103787,
         https://jobs.boeing.com/job/everett/data-science-and-analytics-intern-paid-summer-2019/185/9131039,
         https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812
 JPL => https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
-yelp => https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA,
-https://www.yelp.com/careers/job-openings/8ac4fd83-36be-4018-90a9-ca565a5c9196?description=Product-Manager-Intern-Summer_College-Engineering-Product_San-Francisco-CA
+# yelp => 
+
 
 Linkedin
 Google
