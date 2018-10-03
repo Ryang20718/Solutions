@@ -69,7 +69,7 @@ Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-
         https://jobs.boeing.com/job/everett/data-science-and-analytics-intern-paid-summer-2019/185/9131039,
         https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812
 JPL => https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
-# yelp => 
+#yelp => 
 
 
 Linkedin
