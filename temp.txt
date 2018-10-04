@@ -93,16 +93,16 @@ Amazon
 
 =======First===== 
 *Youland
-intel => https://ucla.joinhandshake.com/jobs/1927695?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c 
+intel => 
 (Attatch Transcript) Nubeva => https://ucla.joinhandshake.com/jobs/1947325?ref=web-app-job-search&search_id=dfc11127-e140-43b6-bee2-a25667080850 
 POSHMARK => :()
 Mckinsey =>https://ucla.joinhandshake.com/jobs/2020039?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
 *SAS => 
 SAS => https://ucla.joinhandshake.com/jobs/1914619?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
-At&T =>https://ucla.joinhandshake.com/jobs/1976633?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
-Verizon => https://ucla.joinhandshake.com/jobs/2008385?ref=job-show
+At&T =>
+*Verizon => 
 *KeySight => 
-IBM => https://ucla.joinhandshake.com/jobs/1906766?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
+IBM => 
 MONGODB => https://ucla.joinhandshake.com/jobs/1964858?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
 AMGEN => https://ucla.joinhandshake.com/jobs/1932284?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
 *KAPWING => 
