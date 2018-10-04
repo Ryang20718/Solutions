@@ -63,6 +63,11 @@ Chevron UCLA october 17 11-4:00
 *Boosted
 
 
+
+
+
+
+
 viasat => https://viasat.avature.net/currentURopenings
 #hubspot => 
 Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-summer-2019-multiple-locations/185/9103787,
@@ -85,3 +90,26 @@ Facebook
 Microsoft
 Pinterest
 Amazon
+
+=======First===== 
+*Youland
+intel => https://ucla.joinhandshake.com/jobs/1927695?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c 
+(Attatch Transcript) Nubeva => https://ucla.joinhandshake.com/jobs/1947325?ref=web-app-job-search&search_id=dfc11127-e140-43b6-bee2-a25667080850 
+POSHMARK => :()
+Mckinsey =>https://ucla.joinhandshake.com/jobs/2020039?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
+*SAS => 
+SAS => https://ucla.joinhandshake.com/jobs/1914619?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
+At&T =>https://ucla.joinhandshake.com/jobs/1976633?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
+Verizon => https://ucla.joinhandshake.com/jobs/2008385?ref=job-show
+*KeySight => 
+IBM => https://ucla.joinhandshake.com/jobs/1906766?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
+MONGODB => https://ucla.joinhandshake.com/jobs/1964858?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
+AMGEN => https://ucla.joinhandshake.com/jobs/1932284?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
+*KAPWING => 
+*PALO ALTO => 
+=====Second======
+Mckinsey => https://ucla.joinhandshake.com/jobs/1862657?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
+Box => https://ucla.joinhandshake.com/jobs/1934682?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
+Hiti => https://ucla.joinhandshake.com/jobs/1915530?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
+IGT => https://ucla.joinhandshake.com/jobs/1860844?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
+SAMSARA
