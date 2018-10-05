@@ -99,10 +99,10 @@ POSHMARK => :()
 Mckinsey =>https://ucla.joinhandshake.com/jobs/2020039?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
 *SAS => 
 SAS => https://ucla.joinhandshake.com/jobs/1914619?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
-At&T =>
+*At&T =>
 *Verizon => 
 *KeySight => 
-IBM => 
+*IBM => 
 MONGODB => https://ucla.joinhandshake.com/jobs/1964858?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
 AMGEN => https://ucla.joinhandshake.com/jobs/1932284?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
 *KAPWING => 
