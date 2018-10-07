@@ -68,20 +68,7 @@ Chevron UCLA october 17 11-4:00
 
 
 
-viasat => https://viasat.avature.net/currentURopenings
-#hubspot => 
-Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-summer-2019-multiple-locations/185/9103787,
-        https://jobs.boeing.com/job/everett/data-science-and-analytics-intern-paid-summer-2019/185/9131039,
-        https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812
-JPL => https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
-#yelp => 
 
-Etsy => https://www.etsy.com/careers/job/20631f36-1825-4443-9f2a-51d5cfa5e4bb
-Amgen
-Ambarella
-Aeroenvironment
-nuOrder
-infosys
 
 Linkedin
 Google
@@ -113,3 +100,18 @@ Box => https://ucla.joinhandshake.com/jobs/1934682?ref=web-app-job-search&search
 Hiti => https://ucla.joinhandshake.com/jobs/1915530?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
 IGT => https://ucla.joinhandshake.com/jobs/1860844?ref=web-app-job-search&search_id=94b4a8e8-733f-4d94-afd4-5afcfa04f7d3
 SAMSARA
+
+==Third====
+viasat => https://viasat.avature.net/currentURopenings
+#hubspot => 
+Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-summer-2019-multiple-locations/185/9103787,
+        https://jobs.boeing.com/job/everett/data-science-and-analytics-intern-paid-summer-2019/185/9131039,
+        https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812
+JPL => https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
+#yelp => 
+
+Etsy => https://www.etsy.com/careers/job/20631f36-1825-4443-9f2a-51d5cfa5e4bb
+Ambarella
+Aeroenvironment
+nuOrder
+infosys
