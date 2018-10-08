@@ -86,7 +86,7 @@ POSHMARK => :()
 Mckinsey =>https://ucla.joinhandshake.com/jobs/2020039?ref=web-app-job-search&search_id=33c33612-a6b7-4a08-97df-a86fc9a996f4
 *SAS => 
 SAS => https://ucla.joinhandshake.com/jobs/1914619?ref=web-app-job-search&search_id=6c229f00-10ef-4ad3-a164-3ba5d468051c
-*At&T =>
+*At&T => hr
 *Verizon => 
 *KeySight => 
 *IBM => 
