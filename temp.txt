@@ -117,3 +117,14 @@ nuOrder
 infosys
 verizon => review
 mitchell
+
+
+6sense
+AppFolio Inc.
+Cisco
+infosys
+kensho
+LeadsMarket.com
+nuorder
+oath
+pathrise
