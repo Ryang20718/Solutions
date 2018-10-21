@@ -120,49 +120,49 @@ mitchell
 
 
 6sense
-AppFolio Inc.
+AppFolio Inc. =>
 Cisco
 infosys
 kensho => too ham
 LeadsMarket.com
-nuorder
-oath
-pathrise
+nuorder => 
+oath => 
+pathrise => too weird
 
 greenhills?
 
 amgen
-ebay
-etsy
-liferay inc
-laserfiche
-junper networks
-teledyne technologies
+ebay => 
+etsy => 
+liferay inc =>
+laserfiche => 
+junper networks => too ham
+teledyne technologies => n/a
 
-red hat
-ziprecruiter
-goodrx
+red hat =>
+ziprecruiter => n/a
+goodrx =>
 mattel
-booz allen hamilton
+booz allen hamilton=>
 age of learning
 
-AppDynamics
+AppDynamics => 
 Adobe Systems
-FM Global-Johnston, RI - Woodland Hills, CA
-Factual
+FM Global-Johnston, RI - Woodland Hills, CA => 
+Factual => 
 TripAdvisor
-Western Asset Management Company
-Integrity Applications Incorporated
-Beyond Limits
-LiveRamp
-Atlassian
+Western Asset Management Company => too ham
+Integrity Applications Incorporated => 
+Beyond Limits =>
+LiveRamp => only juniors
+Atlassian => 
 ExxonMobil Corporation
 Stripe, Inc.
 WhatsApp
 Chevron
-Workday
-ZestFinance
-OpenX Technologies, Inc.
+Workday => 
+ZestFinance => 
+OpenX Technologies, Inc. => 
 
 Dover Corporation
 DJI Technology Inc.
@@ -176,4 +176,5 @@ IXL Learning
 Forza Silicon Corporation
 Phillips 66
 Arista Networks - Software
+procore technology
 

@@ -1,0 +1,14 @@
+Dear Wish Recruiters,
+
+Based off my prior internships within the field of ecommerce and wholesale (vesselbags.com and mysweetbamboo.com) , I'd like to share some projects that I have developed along the way and why they would make me a great fit at Wish!
+
+To start, I have created with full stack applications, using nodejs/flask as the backend along with front end frameworks, such as react and have integrated numerous databases to the cloud (AWS) for storage and computing purposes. One of my projects was created with the idea of increasing sales for products that went out of stock; I built an application that connected to eccommerce platform giant Shopify and whenever a product went out of stock, it would store that information into the database and anyone who bought the out of stock product would immediately get notified on purchase that there may be a delay, giving buyers more options and information about the product rather than the buyer sending a email because the product is not buyable when out of stock. This project improved workflow for the sales team at my previous internship as they wouldn't need to spend as much time on customer inquiries and increased sales by 8.5% with over 1000 customers constantly visiting the site daily.
+
+Additionally, I have also dabbled with machine learning in the field of eccommerce as I saw an opportunity to automate some workflow. In my previous internship, I was tasked with reading 1000 product reviews and determining whether they were good/bad and what was bad if there was an issue, so we could better our products. Seeing the immense manual labor required, I created an AI bot able to use NLP to parse text and recognize a positive vs negative review as well recognize the issue if present and then save all this data and display it as a graph for my manager to see. This way, any further product reviews could be automated, saving valuable company time!
+
+I love to automate tasks and hope that I can have the opportunity to intern at Wish! 
+If you have any questions, contact me anytime. My cellphone is 7609252538 and my email is ryanyang99@hotmail.com.
+
+Thank you for your time!
+
+Ryan Yang
