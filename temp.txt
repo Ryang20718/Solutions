@@ -170,7 +170,7 @@ Brain Corporation
 Bloomberg - R&D
 Raytheon Company
 Symantec
-Teradata
+Teradata !
 Ticketmaster
 IXL Learning
 Forza Silicon Corporation
