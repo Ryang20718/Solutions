@@ -54,3 +54,5 @@ while not empty
     
     if applicable
     queue.append(queue[0].right)
+    
+    

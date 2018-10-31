@@ -20,3 +20,15 @@ class Solution:
                     prev = nums[cur]#sets current to the larger
             res = max(res,count)
         return res
+    
+Pseudocode for Longest common substring
+    matrix = [[0 for x in range(len(a)+1)] for y in range(len(h)+1)] with extra space
+    count = 0
+        for i in range(1,len(entireString)+1):
+            for j in range(1,len(substring)+1):
+                if(substring[j-1] != entireString[j-1]):
+                    matrix[i][j] = 0
+                elif(substring[j-1] == entireString[j-1]):
+                    matrix[i][j] = matrix[i-1][j-1] + 1
+                else:
+                    matrix[i][j] = max(matrix[i-1][j], matrix[i][j-1])
