@@ -116,7 +116,6 @@ Aeroenvironment
 nuOrder
 infosys
 verizon => review
-mitchell
 
 
 6sense
@@ -181,3 +180,4 @@ mitchell !
 hubspot !
 kensho !
 twilio
+Bloomberg !
