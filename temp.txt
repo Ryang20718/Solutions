@@ -10,7 +10,7 @@ mailchimp
 /nest
 palantir
 pivotal
-rackspace(maybe)
+!rackspace(maybe)
 /shiphawk
 /shopify
 xero
