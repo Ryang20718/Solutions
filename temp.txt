@@ -184,3 +184,7 @@ Bloomberg !
 Nokia
 Comcast
 Yext
+mozilla
+Mailchimp
+BOse
+Chan ZUckerberg Initiative
