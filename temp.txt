@@ -182,10 +182,12 @@ kensho !
 twilio=> HckerRank => missing words and some file reading and writing
 Bloomberg !
 Nokia
-Comcast
+!Comcast
 Yext
 mozilla
 Mailchimp
 BOse
 Chan ZUckerberg Initiative
 !ibm
+
+y
