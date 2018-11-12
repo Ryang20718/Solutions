@@ -191,3 +191,5 @@ Chan ZUckerberg Initiative
 !ibm
 
 Liberty Mutual=> ripl
+!nvidia
+!workday
