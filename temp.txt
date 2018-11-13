@@ -122,7 +122,7 @@ verizon => review
 AppFolio Inc. =>
 Cisco
 infosys
-kensho => too ham
+!kensho => too ham
 LeadsMarket.com
 nuorder => 
 oath => 
@@ -193,3 +193,4 @@ Chan ZUckerberg Initiative
 Liberty Mutual=> ripl
 !nvidia
 !workday
+
