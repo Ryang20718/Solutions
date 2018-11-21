@@ -190,10 +190,13 @@ BOse
 Chan ZUckerberg Initiative
 !ibm
 
-Liberty Mutual=> ripl
+Liberty Mutual=> ripl =>interview
 !nvidia
 !workday
 under armour => hirevue virtual => online interview => why are you special? , are you okay with working in this position (QA), Got
 Thermofischer => software inteview
 !groupon
 IBM => coding challenge
+verizon=>interview
+google => interview 
+at&t=>interview
