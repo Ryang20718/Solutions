@@ -202,3 +202,5 @@ google => interview
 at&t=>interview
 Bose => interview
 Michellin?
+Teradata
+Intuit
