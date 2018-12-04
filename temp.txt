@@ -72,7 +72,7 @@ Chevron UCLA october 17 11-4:00
 
 Linkedin
 Google
-Twitter
+!Twitter
 Facebook
 Microsoft
 Pinterest
