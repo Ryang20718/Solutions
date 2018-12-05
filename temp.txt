@@ -66,10 +66,6 @@ Chevron UCLA october 17 11-4:00
 
 
 
-
-
-
-
 Linkedin
 Google
 !Twitter
@@ -212,3 +208,5 @@ boston consulting group
 worldwide technology
 mckinsey 
 https://www.computersciencedegreehub.com/internships-fortune-500-companies/
+!airbnb
+wayup
