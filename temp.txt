@@ -196,7 +196,6 @@ verizon=>interview
 google => interview 
 at&t=>interview
 Bose => interview
-Michellin?
 Teradata
 Intuit
 deloitte
@@ -209,3 +208,5 @@ worldwide technology
 mckinsey 
 https://www.computersciencedegreehub.com/internships-fortune-500-companies/
 !airbnb
+Bose => Behavioural interview asking about my resume and internship.
+Thermo => Behavioural first interview with a couple of language specific questions like diff betwen c & c++, etc. second interview is coding challenge 
