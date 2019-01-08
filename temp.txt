@@ -208,8 +208,8 @@ worldwide technology
 mckinsey 
 https://www.computersciencedegreehub.com/internships-fortune-500-companies/
 !airbnb
-Bose => Behavioural interview asking about my resume and internship.
-Thermo => Behavioural first interview with a couple of language specific questions like diff betwen c & c++, etc. second interview is coding challenge 
+Bose => Behavioural interview asking about my resume and internship. => 
+Thermo => Behavioural first interview with a couple of language specific questions like diff betwen c & c++, etc. second interview is coding challenge => 20$/hr + 500$ one time relo bonus
 !viasat
 !palo alto networks
 Two Sigma
