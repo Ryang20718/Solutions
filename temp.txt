@@ -55,7 +55,6 @@ Mariott
 #Ford => 
 
 #Morgan Stanley => 
-Chevron UCLA october 17 11-4:00 
 #ATT => 
 #*Datadog => 
 
