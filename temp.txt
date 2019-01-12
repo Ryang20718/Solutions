@@ -21,7 +21,6 @@ lyft
 #amex
 
 #Fedex  
-#Pepsico => need masters
 #*rubrik => 
 #jcpenny => 
 #*square =>
