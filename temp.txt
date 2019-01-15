@@ -213,5 +213,4 @@ Thermo => Behavioural first interview with a couple of language specific questio
 !palo alto networks
 Two Sigma
 Citadel
-!
-spotify
+!spotify
