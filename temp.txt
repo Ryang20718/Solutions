@@ -214,3 +214,4 @@ Thermo => Behavioural first interview with a couple of language specific questio
 Two Sigma
 Citadel
 !spotify
+!mailchimp
