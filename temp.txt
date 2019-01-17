@@ -138,7 +138,6 @@ ziprecruiter => n/a
 goodrx =>
 mattel
 booz allen hamilton=>
-age of learning
 
 AppDynamics => 
 Adobe Systems
