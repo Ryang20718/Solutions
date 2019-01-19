@@ -214,3 +214,4 @@ Two Sigma
 Citadel
 !spotify
 !mailchimp
+!microsoft
