@@ -215,3 +215,4 @@ Citadel
 !spotify
 !mailchimp
 !microsoft
+!keysight
