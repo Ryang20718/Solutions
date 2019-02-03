@@ -165,7 +165,6 @@ Raytheon Company
 Symantec
 Teradata !
 Ticketmaster
-IXL Learning
 Forza Silicon Corporation
 Phillips 66
 Arista Networks - Software
@@ -218,3 +217,4 @@ Citadel
 !keysight
 at&t => interview 1 hr behavioural and 1 hr technical
 !braintree
+
