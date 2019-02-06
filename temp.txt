@@ -193,7 +193,7 @@ verizon=>interview
 google => interview 
 at&t=>interview
 Bose => interview
-Teradata
+!Teradata
 Intuit
 deloitte
 pwc
@@ -218,3 +218,4 @@ Citadel
 at&t => interview 1 hr behavioural and 1 hr technical
 !braintree
 !Offerup
+
