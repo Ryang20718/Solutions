@@ -219,4 +219,12 @@ at&t => interview 1 hr behavioural and 1 hr technical
 !braintree
 !Offerup
 millenium management --> ripple
-
+Amazon --> interview ( technical) phone call (3 interviews total)
+Resmed
+Ridecell
+Nutanix
+Wepay
+Fidessa
+Glu
+Coupang
+Oscar
