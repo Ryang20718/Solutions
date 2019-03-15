@@ -207,7 +207,7 @@ https://www.computersciencedegreehub.com/internships-fortune-500-companies/
 !airbnb
 Bose => Behavioural interview asking about my resume and internship. => co-op in boston
 Thermo => Behavioural first interview with a couple of language specific questions like diff betwen c & c++, etc. second interview is coding challenge => 20$/hr + 500$ one time relo bonus
-!!!viasat
+!!!!viasat
 !palo alto networks
 Two Sigma
 Citadel
