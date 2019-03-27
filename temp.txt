@@ -234,6 +234,5 @@ Oscar
 !American Express
 !GAP
 Baidu ==> campus
-!offerup
 !NextCapital
 Docker
