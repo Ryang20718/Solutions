@@ -220,7 +220,6 @@ at&t => interview 1 hr behavioural and 1 hr technical
 millenium management --> ripple
 Amazon --> interview ( technical) phone call (3 interviews total)
 Resmed
-Ridecell
 Nutanix
 Wepay
 Fidessa
