@@ -116,7 +116,6 @@ verizon => review
 6sense
 AppFolio Inc. =>
 Cisco
-infosys
 !kensho => too ham
 LeadsMarket.com
 nuorder => 
