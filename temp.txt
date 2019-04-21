@@ -223,7 +223,6 @@ Wepay
 Fidessa
 Glu
 Coupang
-Oscar
 !twilio
 !IBM
 !Cox
