@@ -45,7 +45,6 @@ illumina
 #Macy =>
 Mariott
 
-#*starbucks => 
 #nike => 
 #raytheon =>
 #Caterpillar => 
