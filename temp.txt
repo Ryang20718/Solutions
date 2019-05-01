@@ -105,7 +105,6 @@ Boeing =>https://jobs.boeing.com/job/everett/information-technology-intern-paid-
 JPL => https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/
 #yelp => 
 
-Etsy => https://www.etsy.com/careers/job/20631f36-1825-4443-9f2a-51d5cfa5e4bb
 Ambarella
 Aeroenvironment
 nuOrder
