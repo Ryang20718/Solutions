@@ -43,7 +43,6 @@ illumina
         
         
 #Macy =>
-Mariott
 
 #nike => 
 #raytheon =>
