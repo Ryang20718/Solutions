@@ -1,7 +1,6 @@
 #box
 cruise
 drive.ai[maybe]
-datadog
 homeaway
 Logmein
 lytx
