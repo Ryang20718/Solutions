@@ -214,7 +214,6 @@ millenium management --> ripple
 Amazon --> interview ( technical) phone call (3 interviews total)
 Resmed
 Nutanix
-Wepay
 Fidessa
 Glu
 Coupang
